@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Natã Silva  😁
+## Bem-vindo(a) ao perfil do Natã Silva  😎👍
 
  <div>
    <a href="https://github.com/Nata-Silva">
