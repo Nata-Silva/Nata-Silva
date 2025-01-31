@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao perfil do Natã Silva  😎👍
 
-<code style="color : magenta">TEST</code>
 
  <div>
    <a href="https://github.com/Nata-Silva">
